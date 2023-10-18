@@ -1,4 +1,5 @@
 @Library('my-jenkins-library') _
+nexusSharedLibrary
 pipeline {
     agent any
     stages {
