@@ -1,4 +1,4 @@
-@Library('my-jenkins-library') _
+@Library(my-jenkins-library) _
 nexusSharedLibrary.groovy
 pipeline {
     agent any
