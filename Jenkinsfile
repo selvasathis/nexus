@@ -1,5 +1,4 @@
 @Library('nexus') 
-
 pipeline {
     agent any
 
