@@ -1,5 +1,5 @@
-@Library('my-jenkins-library')_
-nexusSharedLibrary.groovy
+@Library('my-jenkins-library') _
+
 pipeline {
     agent any
     stages {
