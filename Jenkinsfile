@@ -1,4 +1,4 @@
-@Library('nexus')
+@Library('nexus') _
 pipeline {
     agent any
     stages {
