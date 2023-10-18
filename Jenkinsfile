@@ -1,4 +1,4 @@
-@Library('nexusSharedLibrary') _
+@Library('nexus') 
 
 pipeline {
     agent any
