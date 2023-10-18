@@ -7,7 +7,7 @@ pipeline {
             steps {
                 script {
                     echo 'Running npm package'
-                    npm_package()
+                    nexusSharedLibrary.npm_package()
                 }
             }
         }
